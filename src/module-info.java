@@ -5,5 +5,7 @@
  * @author kirnitha g
  *
  */
-module Company {
+module Company{
+	sujitha;
+	sangavi;
 }
